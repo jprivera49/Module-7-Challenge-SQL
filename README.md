@@ -10,4 +10,4 @@ To be eligible to participate in the mentorship program, employees will need to 
 Based on my analysis, 54,722  employees are set to reitre, with 7 different titles being affected.  2,382 employees are eligible for the mentorship program, based on the dates set.
 
 ### ERD Mapping Out Database
-![ERD].https://raw.githubusercontent.com/jprivera49/Module-7-Challenge-SQL/master/QuickDBD-export%20(1).png
+https://raw.githubusercontent.com/jprivera49/Module-7-Challenge-SQL/master/QuickDBD-export%20(1).png
